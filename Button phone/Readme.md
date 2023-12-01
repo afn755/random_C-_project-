@@ -1,4 +1,4 @@
-**Button Phone**
+<H1>Button Phone</H1>
 
 This C++ program simulates the functionality of a basic button phone. It includes features like viewing contacts, making calls, sending text messages, viewing time, and playing a simple snake game.
 
